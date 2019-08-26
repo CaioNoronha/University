@@ -16,3 +16,22 @@ Monitorate(in a simulator) the shop's products.
 - Exclude
 - Exit
 
+### WorldCup
+Final Work in my first semester.
+Here, you will simulate how reservations and purchases of tribune chairs of the Stadium work.
+#### There, you can use:
+To get started, you should start with:
+* The name of the stadium (any name of your choice)
+* Number of seats in the gallery row
+* Normal ticket price
+* Discount for Men
+* Discount for Women
+
+#### Menu:
+When all of this is Done, you will be directed to the Store Menu.
+There, you will receive 3 choices.
+* D- Available( Disponível)
+* C- Purchased( Compradas)
+* R- Reservations( Reservas)
+* S- Exit(Saída)
+
