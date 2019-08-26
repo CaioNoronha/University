@@ -1,6 +1,6 @@
-# Univerty
+# University
 
-Works i did in univerty.
+Works i did in university.
 
 Here's some works of mine when i was learning to program. Some of it is cool, some is simple things.
 
