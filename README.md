@@ -35,3 +35,13 @@ There, you will receive 3 choices.
 * R- Reservations( Reservas)
 * S- Exit(Saída)
 
+## String
+A function has been created that does the same functions as the string.h library.
+#### You can rewrite for the same purpose:
+* gets
+* strLen
+* puts
+* strupr
+* strcmp
+* strcpy
+* strcat
