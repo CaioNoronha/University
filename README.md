@@ -4,6 +4,7 @@ Works i did in university.
 
 Here's some works of mine when i was learning to program. Some of it is cool, some is simple things.
 
+# C works
 
 ## CRUD
 Work i learned how to allocate memory, creating a Query, using a CRUD to do it.
