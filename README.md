@@ -28,8 +28,8 @@ Work i learned how to allocate memory, creating a Query, using a CRUD to do it.
 Monitorate(in a simulator) the shop's products.
 #### There, you can use:
 - Include
-- List
 - Query
+- List
 - Edit
 - Exclude
 - Exit
