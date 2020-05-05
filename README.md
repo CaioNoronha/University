@@ -50,7 +50,7 @@ Final Work in my fourth semester.
 You will simulate how a RPG game work, where you choose your name, class, inventory and battle with another players.
 
 #### Menu:
-You will receive 4 choices.
+You will receive 4 choices to play the RPG.
 * 1 - Create Player
 * 2 - Show Player
 * 3 - Battle
