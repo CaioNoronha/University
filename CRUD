@@ -112,7 +112,7 @@ int menu(void) {
 
 // Síntese
 //   Objetivo: Adicionar novos produtos.
-//   Entrada: Código, descrição e valor.
+//   Entrada: Código(Struct), descrição(Struct) e valor(Ponteiro).
 //   Saida: Novo produto.
 void incluir( struct tipoProdutos produto, struct tipoProdutos produtos[], int *quantProdutos) {
 
@@ -164,7 +164,7 @@ void incluir( struct tipoProdutos produto, struct tipoProdutos produtos[], int *
 
 // Síntese
 //   Objetivo: Listar todos os produtos.
-//   Entrada: -
+//   Entrada: TipoProdutos(Struct), e inteiro quantidade
 //   Saída: Todos os produtos.
 void listar( struct tipoProdutos produtos[], int quant) {
 
@@ -216,7 +216,7 @@ void consultar( struct tipoProdutos produtos[], int quant) {
 
 // Síntese
 //   Objetivo: Editar o produto requerido.
-//   Entrada: Produto consultado.
+//   Entrada: tipo Produto consultado(Struct).
 //   Saída: Produto Editado.
 void editar( struct tipoProdutos produto, struct tipoProdutos produtos[], int quant) {
 
