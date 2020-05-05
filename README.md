@@ -47,7 +47,7 @@ A function has been created that does the same functions as the string.h library
 
 ## RPG
 Final Work in my fourth semester.
-You will simulate how a RPG game work, where you choose your name, class, inventory and battle with another players.
+You will simulate how a RPG game work, where you create your player, find all players and battle with another players.
 
 #### Menu:
 You will receive 4 choices to set and play the RPG.
