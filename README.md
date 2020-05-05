@@ -18,9 +18,9 @@ To get started, you should start with:
 #### Menu:
 When all of this is Done, you will be directed to the Store Menu.
 There, you will receive 4 choices.
-* D- Available( Disponível)
-* C- Purchased( Compradas)
-* R- Reservations( Reservas)
+* D- Available(Disponível)
+* C- Purchased(Compradas)
+* R- Reservations(Reservas)
 * S- Exit(Saída)
 
 ## CRUD
