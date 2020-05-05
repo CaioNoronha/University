@@ -44,3 +44,8 @@ A function has been created that does the same functions as the string.h library
 * strcmp
 * strcpy
 * strcat
+
+## RPG
+Final Work in my fourth semester.
+You will simulate how a RPG game work.
+
