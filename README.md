@@ -15,3 +15,7 @@ You will receive 4 choices to set and play the RPG.
 * 3 - Battle
 * 4 - Exit
 
+## Horizon-Final
+Final Work in my fourth semester.
+You will simulate a shop, join with login, doing the CRUD(Create, Read, Update and Delete), update all changes to a server and adding a chat-text, with another server.
+
